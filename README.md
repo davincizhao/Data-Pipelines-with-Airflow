@@ -3,16 +3,14 @@
 create custom operators to perform tasks such as staging the data, filling the data warehouse, and running checks on the data as the final step.
 
 A music streaming company, Sparkify, has decided that it is time to introduce more automation and monitoring to their data warehouse ETL pipelines and come to the conclusion that the best tool to achieve this is Apache Airflow.
-Datasets
 
-## Where is Data Source
+
+## Where is Datasets
 For this project, you'll be working with two datasets. Here are the s3 links for each:
 
-Log data: s3://udacity-dend/log_data
-Song data: s3://udacity-dend/song_data
-Project Template
-To get started with the project:
-
+- Log data: s3://udacity-dend/log_data
+- Song data: s3://udacity-dend/song_data
+## Project Template
 
 
 The project template package contains three major components for the project:
